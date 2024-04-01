@@ -31,9 +31,10 @@ def generate_writeup(data, year):
             with open(challenge_file_path, 'w') as f:
                 f.write(f"---\n")
                 f.write(f"title: {name_decoded}\n")
-                f.write(f"description: sample - {name_decoded}\n")  
+                f.write(f"description: sample\n")  
                 f.write(f"points: {challenge['value']}\n")
                 f.write(f"solves: {challenge['solves']}\n")
+                f.write(f"author: sample)
                 f.write(f"---\n\n")
                 f.write(f"yeh' {name_decoded}.... it was hard lol\n")
 
