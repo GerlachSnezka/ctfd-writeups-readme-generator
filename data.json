@@ -1,216 +1,215 @@
 {
-    "success": true,
-    "data": [
-      {
-        "name": "RSA-256",
-        "value": 100,
-        "solves": 627,
-        "solved_by_me": true,
-        "category": "Cryptography"
-      },
-      {
-        "name": "Contracts",
-        "value": 100,
-        "solves": 387,
-        "solved_by_me": true,
-        "category": "Forensics"
-      },
-      {
-        "name": "Beginner: Anti-dcode.fr",
-        "value": 100,
-        "solves": 305,
-        "solved_by_me": true,
-        "category": "Cryptography"
-      },
-      {
-        "name": "Beginner: Basic Reversing Problem",
-        "value": 100,
-        "solves": 310,
-        "solved_by_me": true,
-        "category": "Reverse Engineering"
-      },
-      {
-        "name": "Beginner: Off-Brand Cookie Clicker",
-        "value": 100,
-        "solves": 474,
-        "solved_by_me": true,
-        "category": "Web"
-      },
-      {
-        "name": "Survey",
-        "value": 100,
-        "solves": 272,
-        "solved_by_me": true,
-        "category": "Misc"
-      },
-      {
-        "name": "Schrödinger",
-        "value": 380,
-        "solves": 250,
-        "solved_by_me": true,
-        "category": "Web"
-      },
-      {
-        "name": "Fruit Deals",
-        "value": 429,
-        "solves": 239,
-        "solved_by_me": false,
-        "category": "Reverse Engineering"
-      },
-      {
-        "name": "numbers go brrr",
-        "value": 481,
-        "solves": 228,
-        "solved_by_me": true,
-        "category": "Cryptography"
-      },
-      {
-        "name": "bits and pieces",
-        "value": 530,
-        "solves": 218,
-        "solved_by_me": true,
-        "category": "Cryptography"
-      },
-      {
-        "name": "OSINT 1",
-        "value": 596,
-        "solves": 202,
-        "solved_by_me": true,
-        "category": "Forensics"
-      },
-      {
-        "name": "Cryptordle",
-        "value": 772,
-        "solves": 150,
-        "solved_by_me": false,
-        "category": "Cryptography"
-      },
-      {
-        "name": "Easy Mergers v0.1",
-        "value": 799,
-        "solves": 143,
-        "solved_by_me": true,
-        "category": "Web"
-      },
-      {
-        "name": "OSINT 2",
-        "value": 799,
-        "solves": 141,
-        "solved_by_me": false,
-        "category": "Forensics"
-      },
-      {
-        "name": "A Very Professional Website",
-        "value": 802,
-        "solves": 142,
-        "solved_by_me": false,
-        "category": "Forensics"
-      },
-      {
-        "name": "numbers go brrr 2",
-        "value": 842,
-        "solves": 126,
-        "solved_by_me": true,
-        "category": "Cryptography"
-      },
-      {
-        "name": "Study Music",
-        "value": 849,
-        "solves": 122,
-        "solved_by_me": true,
-        "category": "Forensics"
-      },
-      {
-        "name": "OSINT 3",
-        "value": 902,
-        "solves": 96,
-        "solved_by_me": false,
-        "category": "Forensics"
-      },
-      {
-        "name": "simple signature",
-        "value": 908,
-        "solves": 95,
-        "solved_by_me": false,
-        "category": "Cryptography"
-      },
-      {
-        "name": "CCV",
-        "value": 918,
-        "solves": 91,
-        "solved_by_me": true,
-        "category": "Misc"
-      },
-      {
-        "name": "Home on the Range",
-        "value": 944,
-        "solves": 71,
-        "solved_by_me": false,
-        "category": "Web"
-      },
-      {
-        "name": "PES-128",
-        "value": 968,
-        "solves": 57,
-        "solved_by_me": false,
-        "category": "Reverse Engineering"
-      },
-      {
-        "name": "Gibberish",
-        "value": 990,
-        "solves": 31,
-        "solved_by_me": false,
-        "category": "Forensics"
-      },
-      {
-        "name": "Insanity Check: Reimagined",
-        "value": 994,
-        "solves": 24,
-        "solved_by_me": false,
-        "category": "Forensics"
-      },
-      {
-        "name": "Handwritten Webserver",
-        "value": 999,
-        "solves": 10,
-        "solved_by_me": false,
-        "category": "Binary Exploitation"
-      },
-      {
-        "name": "Unsound",
-        "value": 999,
-        "solves": 13,
-        "solved_by_me": false,
-        "category": "Web"
-      },
-      {
-        "name": "Forgery",
-        "value": 1000,
-        "solves": 6,
-        "solved_by_me": false,
-        "category": "Cryptography"
-      },
-      {
-        "name": "In The Dark",
-        "value": 1000,
-        "solves": 7,
-        "solved_by_me": false,
-        "category": "Reverse Engineering"
-      },
-      {
-        "name": "E-Corp",
-        "value": 1000,
-        "solves": 2,
-        "solved_by_me": false,
-        "category": "Binary Exploitation"
-      },
-      {
-        "name": "Accelerated Hell",
-        "value": 1000,
-        "solves": 6,
-        "solved_by_me": false,
-        "category": "Reverse Engineering"
-      }
-    ]
-  }
-  
+  "success": true,
+  "data": [
+    {
+      "name": "challenge1",
+      "value": 100,
+      "solves": 627,
+      "solved_by_me": true,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge2",
+      "value": 100,
+      "solves": 387,
+      "solved_by_me": true,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge3",
+      "value": 100,
+      "solves": 305,
+      "solved_by_me": true,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge4",
+      "value": 100,
+      "solves": 310,
+      "solved_by_me": true,
+      "category": "Reverse Engineering"
+    },
+    {
+      "name": "challenge5",
+      "value": 100,
+      "solves": 474,
+      "solved_by_me": true,
+      "category": "Web"
+    },
+    {
+      "name": "challenge6",
+      "value": 100,
+      "solves": 272,
+      "solved_by_me": true,
+      "category": "Misc"
+    },
+    {
+      "name": "challenge7",
+      "value": 380,
+      "solves": 250,
+      "solved_by_me": true,
+      "category": "Web"
+    },
+    {
+      "name": "challenge8",
+      "value": 429,
+      "solves": 239,
+      "solved_by_me": false,
+      "category": "Reverse Engineering"
+    },
+    {
+      "name": "challenge9",
+      "value": 481,
+      "solves": 228,
+      "solved_by_me": true,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge10",
+      "value": 530,
+      "solves": 218,
+      "solved_by_me": true,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge11",
+      "value": 596,
+      "solves": 202,
+      "solved_by_me": true,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge12",
+      "value": 772,
+      "solves": 150,
+      "solved_by_me": false,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge13",
+      "value": 799,
+      "solves": 143,
+      "solved_by_me": true,
+      "category": "Web"
+    },
+    {
+      "name": "challenge14",
+      "value": 799,
+      "solves": 141,
+      "solved_by_me": false,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge15",
+      "value": 802,
+      "solves": 142,
+      "solved_by_me": false,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge16",
+      "value": 842,
+      "solves": 126,
+      "solved_by_me": true,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge17",
+      "value": 849,
+      "solves": 122,
+      "solved_by_me": true,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge18",
+      "value": 902,
+      "solves": 96,
+      "solved_by_me": false,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge19",
+      "value": 908,
+      "solves": 95,
+      "solved_by_me": false,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge20",
+      "value": 918,
+      "solves": 91,
+      "solved_by_me": true,
+      "category": "Misc"
+    },
+    {
+      "name": "challenge21",
+      "value": 944,
+      "solves": 71,
+      "solved_by_me": false,
+      "category": "Web"
+    },
+    {
+      "name": "challenge22",
+      "value": 968,
+      "solves": 57,
+      "solved_by_me": false,
+      "category": "Reverse Engineering"
+    },
+    {
+      "name": "challenge23",
+      "value": 990,
+      "solves": 31,
+      "solved_by_me": false,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge24",
+      "value": 994,
+      "solves": 24,
+      "solved_by_me": false,
+      "category": "Forensics"
+    },
+    {
+      "name": "challenge25",
+      "value": 999,
+      "solves": 10,
+      "solved_by_me": false,
+      "category": "Binary Exploitation"
+    },
+    {
+      "name": "challenge26",
+      "value": 999,
+      "solves": 13,
+      "solved_by_me": false,
+      "category": "Web"
+    },
+    {
+      "name": "challenge27",
+      "value": 1000,
+      "solves": 6,
+      "solved_by_me": false,
+      "category": "Cryptography"
+    },
+    {
+      "name": "challenge28",
+      "value": 1000,
+      "solves": 7,
+      "solved_by_me": false,
+      "category": "Reverse Engineering"
+    },
+    {
+      "name": "challenge29",
+      "value": 1000,
+      "solves": 2,
+      "solved_by_me": false,
+      "category": "Binary Exploitation"
+    },
+    {
+      "name": "challenge30",
+      "value": 1000,
+      "solves": 6,
+      "solved_by_me": false,
+      "category": "Reverse Engineering"
+    }
+  ]
+}
