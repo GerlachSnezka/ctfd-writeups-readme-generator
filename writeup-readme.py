@@ -12,10 +12,11 @@ def generate_writeup(data, year):
     categories = {}
 
     for challenge in data['data']:
-        category = challenge['category']
-        if category not in categories:
-            categories[category] = []
-        categories[category].append(challenge)
+        if challenge['solved_by_me']:  
+            category = challenge['category']
+            if category not in categories:
+                categories[category] = []
+            categories[category].append(challenge)
 
     for category, challenges in categories.items():
         category_dir = os.path.join(str(year), category.lower().replace(" ", "-")) 
@@ -34,9 +35,10 @@ def generate_writeup(data, year):
                 f.write(f"description: sample\n")  
                 f.write(f"points: {challenge['value']}\n")
                 f.write(f"solves: {challenge['solves']}\n")
-                f.write(f"author: sample)
+                f.write(f"author: sample\n")
                 f.write(f"---\n\n")
                 f.write(f"yeh' {name_decoded}.... it was hard lol\n")
+                
 
         with open(os.path.join(category_dir, 'README.md'), 'w') as readme_file:
             readme_file.write(f"# {category.capitalize()} Challenges\n\n")
@@ -56,6 +58,7 @@ def generate_writeup(data, year):
                 name_decoded = unquote(challenge['name'])
                 name_with_dash = name_decoded.lower().replace(" ", "-")
                 year_readme_file.write(f"- **{name_decoded}** ({challenge['value']} points) - Solved: {'✔' if challenge['solved_by_me'] else '❌'} - Solves: {challenge['solves']}\n\n")
+
 
 
 def main():
